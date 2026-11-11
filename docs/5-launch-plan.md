@@ -2,7 +2,7 @@
 
 ## Marketing & User Acquisition
 
-*   **Primary Launch Channel:** [Facebook ads, instagram ads, word of mouth at tech events]
+*   **Primary Launch Channel:** [Facebook ads, subreddits, word of mouth at tech events]
 
 *   **Value Proposition:** [An app that can optimize work flow and share files among teams]
 
